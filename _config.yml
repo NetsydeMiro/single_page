@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a template for a single page jekyll site. 
   Plus an about page.
-baseurl: "/single_page/" # the subpath of your site, e.g. /blog/
+baseurl: "/single_page" # the subpath of your site, e.g. /blog/
 url: "http://netsydemiro.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
